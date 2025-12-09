@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ilias!  
+### Cybersecurity & Cloud Enthusiast
 
-<!--
-**bcilias/bcilias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ IT Systems & Infrastructure
+- [Active Directory Home Lab](#)
+
+### 🛡️ Defensive Security
+- [Vulnerability Management & Hardening (Tenable)](#)
+
+### ⚔️ Offensive Security
+- [Active Directory Attack Lab](#)
+
+### ☁️ Cloud Security
+- [Azure Sentinel Detection Lab](#)
+
+### ⚙️ Automation & Scripting
+- [Backup Automation & Integrity Monitoring (PowerShell + Zabbix)](#)
+
+---
+
+## 🤝 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/ilias-ben-cheikh-721518197/)
