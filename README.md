@@ -8,13 +8,13 @@
 - [Active Directory Home Lab](#)
 
 ### 🛡️ Defensive Security
-- [Vulnerability Management & Hardening (Tenable)](#) in progress...
+- [Vulnerability Management & Hardening (Tenable)](#) (in progress...)
 
 ### ⚔️ Offensive Security
 - [Active Directory Attack Lab](#)
 
 ### ☁️ Cloud Security
-- [Azure Sentinel Detection Lab](#) in progress...
+- [Azure Sentinel Detection Lab](#) (in progress...)
 
 ### ⚙️ Automation & Scripting
 - [Backup Automation & Integrity Monitoring (PowerShell + Zabbix)](#)
