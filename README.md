@@ -8,13 +8,13 @@
 - [Active Directory Lab](https://github.com/bcilias/active-directory-lab)
 
 ### 🛡️ Defensive Security
-- [Vulnerability Management & Hardening (Tenable)](#) (in progress...)
+- [Vulnerability Management & Hardening (Tenable)](https://github.com/bcilias/vulnerability-management-hardening) (in progress...)
 
 ### ⚔️ Offensive Security
-- [Active Directory Attack Lab](#)
+- [Active Directory Attack Lab](https://github.com/bcilias/active-directory-attack-lab)
 
 ### ☁️ Cloud Security
-- [Azure Sentinel Detection Lab](#) (in progress...)
+- [Azure Sentinel Detection Lab](https://github.com/bcilias/azure-sentinel-lab) (in progress...)
 
 ### ⚙️ Automation & Scripting
 - [Backup Automation & Integrity Monitoring (PowerShell + Zabbix)](https://github.com/bcilias/powershell-backup-monitoring)
