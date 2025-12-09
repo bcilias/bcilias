@@ -1,5 +1,4 @@
 # Hi, I'm Ilias!  
-### Cybersecurity & Cloud Enthusiast
 
 ---
 
