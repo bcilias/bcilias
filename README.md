@@ -5,7 +5,7 @@
 ## 🛠️ Projects
 
 ### 🖥️ IT Systems & Infrastructure
-- [Active Directory Lab](https://github.com/bcilias/ActiveDirectoryLab)
+- [Active Directory Lab](https://github.com/bcilias/active-directory-lab)
 
 ### 🛡️ Defensive Security
 - [Vulnerability Management & Hardening (Tenable)](#) (in progress...)
@@ -17,7 +17,7 @@
 - [Azure Sentinel Detection Lab](#) (in progress...)
 
 ### ⚙️ Automation & Scripting
-- [Backup Automation & Integrity Monitoring (PowerShell + Zabbix)](#)
+- [Backup Automation & Integrity Monitoring (PowerShell + Zabbix)](https://github.com/bcilias/powershell-backup-monitoring)
 
 ---
 
