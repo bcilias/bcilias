@@ -11,7 +11,7 @@
 - [Vulnerability Management & Hardening (Tenable)](https://github.com/bcilias/vulnerability-management-hardening) (in progress...)
 
 ### ⚔️ Offensive Security
-- [Active Directory Attack Lab](https://github.com/bcilias/active-directory-attack-lab)
+- [Active Directory Attack Lab](https://github.com/bcilias/active-directory-attack-lab) (in progress...)
 
 ### ☁️ Cloud Security
 - [Azure Sentinel Detection Lab](https://github.com/bcilias/azure-sentinel-lab) (in progress...)
