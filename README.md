@@ -14,7 +14,7 @@
 - [Active Directory Attack Lab](https://github.com/bcilias/active-directory-attack-lab) (in progress...)
 
 ### ☁️ Cloud Security
-- [Azure Sentinel Lab](https://github.com/bcilias/azure-sentinel-lab) (in progress...)
+- [Azure Sentinel Lab](https://github.com/bcilias/azure-sentinel-lab)
 
 ### ⚙️ Automation & Scripting
 - [Backup Automation & Integrity Monitoring (PowerShell + Zabbix)](https://github.com/bcilias/powershell-backup-monitoring)
